@@ -1,0 +1,14 @@
+# DO NOT DELETE
+./obj/boot.o : \
+   C:/PROGRA~2/Cypress/PSOCDE~1/5.3/Common/CY110F~1/tools/include/CY8C29~1/m8c.inc\
+   C:/PROGRA~2/Cypress/PSOCDE~1/5.3/Common/CY110F~1/tools/include/CY8C29~1/m8ssc.inc\
+   C:\Users\ar832\DOCUME~1\GitHub\MICROC~1\Lab1B2\Lab1B2\lib\GLOBAL~1.INC\
+   C:\Users\ar832\DOCUME~1\GitHub\MICROC~1\Lab1B2\Lab1B2\memory.inc
+./obj/main.o :  ./lib/PSoCAPI.inc ./lib/PSOCGP~1.INC\
+   C:/PROGRA~2/Cypress/PSOCDE~1/5.3/Common/CY110F~1/tools/include/CY8C29~1/m8c.inc\
+   C:\Users\ar832\DOCUME~1\GitHub\MICROC~1\Lab1B2\Lab1B2\memory.inc
+./lib/obj/psocconfig.o :  ./lib/GLOBAL~1.INC\
+   C:/PROGRA~2/Cypress/PSOCDE~1/5.3/Common/CY110F~1/tools/include/CY8C29~1/m8c.inc\
+   C:\Users\ar832\DOCUME~1\GitHub\MICROC~1\Lab1B2\Lab1B2\memory.inc
+./lib/obj/psocconfigtbl.o : \
+   C:/PROGRA~2/Cypress/PSOCDE~1/5.3/Common/CY110F~1/tools/include/CY8C29~1/m8c.inc
